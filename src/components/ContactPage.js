@@ -5,7 +5,7 @@ function ContactPage() {
   return (
     <div style={{paddingLeft:'100px', paddingTop:'100px', paddingRight:'500px'}}>
       <h1 style={{color:'#94b9e4ff', fontFamily:'fantasy', fontSize:'80px'}}> Get in touch with me ! </h1>
-      <h5 style={{color:'#a1dbff', fontFamily:'monospace'}}> You can drop me an email or connect with me via LinkedIn. I’ll get back to you at the earliest. </h5>
+      <h5 style={{color:'#a1dbff', fontFamily:'monospace'}}> You can drop me an Email or connect with me via LinkedIn or check out my Github Repository Hub. I’ll get back to you at the earliest. </h5>
       <hr style={{color:'white', width:'1300px'}}></hr>
       
       <h5 style={{color:'#a1ff85ff', fontFamily:'monospace'}}> Drop an email : richa.rastogi234@gmail.com </h5>
