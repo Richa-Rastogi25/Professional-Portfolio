@@ -11,7 +11,7 @@ import Resume from './components/Resume';
 
 function App() {
   return (
-    <div className="App">
+    <div className='App'>
         <Navbar/>
         <Routes>
           <Route path='/' element={<Home/>}></Route>
@@ -21,6 +21,7 @@ function App() {
           <Route path='resume' element={<Resume/>}></Route>
           <Route path='contact-page' element={<ContactPage/>}></Route>
         </Routes>
+        {/* <button onClick="topFunction()" id="myBtn" title="Go to top">Top</button> */}
     </div>
   );
 }
