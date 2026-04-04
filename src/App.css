@@ -1,7 +1,7 @@
 /* Body Styling - Constant for Whole Website */
 .App {
   text-align: left;
-  /* min-height: 100vh; */
+  min-height: 100vh;
   background: linear-gradient(135deg,rgba(69, 184, 255, 0.15),rgba(201, 239, 248, 0.05)),#0a192f;
 }
 
@@ -62,13 +62,6 @@
 }
 
 /* Move carousel buttons away from cards */
-.carousel-control-prev {
-  left: -80px !important;  /* move left button outward */
-}
-
-.carousel-control-next {
-  right: -80px !important;  /* move right button outward */
-}
 
 /* Button Styling */
 /* .carousel-control-prev-icon,
