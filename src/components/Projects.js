@@ -6,7 +6,7 @@ function Projects() {
       <div style={{paddingLeft:'100px', paddingTop:'100px', paddingRight:'100px'}}>
        <h1 style={{color:'#94b9e4ff', fontFamily:'fantasy', fontSize:'80px'}}> PROJECTS </h1>  
        <h5 style={{color:'#a1dbff', fontFamily:'fantasy'}}> Deployed Projects </h5>
-      <hr style={{color:'white', width:'500px'}}></hr>
+      <hr style={{color:'white'}}></hr>
 
 <div style={{gridTemplateColumns: '1fr'}} className="d-grid gap-5 row-gap-5">
 
