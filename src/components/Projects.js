@@ -220,9 +220,9 @@ function Projects() {
 </div>     
 
     </div>
-    <footer>
+    {/* <footer>
       eduinsure copyright
-    </footer>
+    </footer> */}
     </div>
   )
 }
